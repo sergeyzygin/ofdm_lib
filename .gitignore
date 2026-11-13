@@ -37,3 +37,6 @@ xcelium_lib/
 
 # Local Claude Code settings
 .claude/
+
+# Vivado design checkpoints (binary synthesis/implementation snapshots)
+*.dcp
